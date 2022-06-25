@@ -25,4 +25,4 @@ Sequence Models under Deep Learning Specialisation to understand Recurrent Neura
 
 ### Week 4
 
-In this week, I implemented autoencoders for speech enhancement. The file Noise_Reduction_with_Autoencoders.ipynb contains the complete code of training the models and saving them to the mounted drive. NoiseSuppressionModel.h5 is the model saved in HDF5 format. TFLiteModel.tflite is the model saved in tflite format.
+In this week, I implemented autoencoders for speech enhancement. Noise_Reduction_with_Autoencoders.ipynb contains the complete code of training the models and saving them to the mounted drive. NoiseSuppressionModel.h5 is the model saved in HDF5 format. TFLiteModel.tflite is the model saved in tflite format.
