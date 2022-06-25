@@ -20,5 +20,9 @@ understood the structure and functions of GANs.
 
 ### Week 3
 
-In this week, I did a tutorial to implement a Generative Adversarial Network (GAN) from scratch in Google Colab. Currently, I am doing the Coursera course on 
+In this week, I did a tutorial to implement a Generative Adversarial Network (GAN) from scratch in Google Colab. I also completed Week 1 of the Coursera course on 
 Sequence Models under Deep Learning Specialisation to understand Recurrent Neural Networks (RNNs).
+
+### Week 4
+
+In this week, I implemented autoencoders for speech enhancement. The file Noise_Reduction_with_Autoencoders.ipynb contains the complete code of training the models and saving them to the mounted drive. NoiseSuppressionModel.h5 is the model saved in HDF5 format. TFLiteModel.tflite is the model saved in tflite format.
