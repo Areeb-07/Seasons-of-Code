@@ -20,8 +20,7 @@ understood the structure and functions of GANs.
 
 ### Week 3
 
-In this week, I did a tutorial to implement a Generative Adversarial Network (GAN) from scratch in Google Colab. I also completed Week 1 of the Coursera course on 
-Sequence Models under Deep Learning Specialisation to understand Recurrent Neural Networks (RNNs).
+In this week, I did a tutorial to implement a Generative Adversarial Network (GAN) from scratch in Google Colab. GAN_Tutorial.ipynb contains the complete code of training and showing the performances of the models. I also completed Week 1 of the Coursera course on Sequence Models under Deep Learning Specialisation to understand Recurrent Neural Networks (RNNs).
 
 ### Week 4
 
