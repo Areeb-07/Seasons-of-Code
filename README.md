@@ -25,3 +25,12 @@ In this week, I did a tutorial to implement a Generative Adversarial Network (GA
 ### Week 4
 
 In this week, I implemented autoencoders for speech enhancement. Noise_Reduction_with_Autoencoders.ipynb contains the complete code of training the models and saving them to the mounted drive. NoiseSuppressionModel.h5 is the model saved in HDF5 format. TFLiteModel.tflite is the model saved in tflite format.
+
+### Week 5
+
+In this week, I studied the paper on SEGAN (Speech Enhancement Generative Adversarial Network) and began implementing the same.
+
+### Week 6
+
+In this week, I completed the implementation of SEGAN thus completing the project. The files related to SEGAN are present in the folder Final_Model.
+
